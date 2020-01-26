@@ -1,0 +1,4 @@
+mode: set
+GolangTesting/greeting/hello.go:7.32,8.20 1 1
+GolangTesting/greeting/hello.go:11.2,11.39 1 1
+GolangTesting/greeting/hello.go:8.20,10.3 1 0
